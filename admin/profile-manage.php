@@ -243,7 +243,7 @@ if(count($_POST)>0) {//print_r($_POST);exit();
                                                 <label class="col-md-4 control-label">Номер телефону </label>
                                                 <div class="col-md-6" style="position: relative;">
                                                     <input type="text" value="<?php echo $phone; ?>" class="form-control" name="phone" id="phone">
-                                                    (<span style="color:#5383C1; font-size:smaller">приклад 8801XXXXXXXXX</span>)
+                                                    (<span style="color:#5383C1; font-size:smaller">приклад 380123456789</span>)
                                                     <div class="phonemessage"></div>
                                                 </div>
                                                 <div class="clearfix"></div>

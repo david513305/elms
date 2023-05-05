@@ -456,7 +456,7 @@ if(isset($_GET["page"])){
                 <div class="form-group">
                     <span class="required">*</span><label for="exampleInputEmail1">Номер телефону</label>
                     <input type="text" name="phone" class="form-control" id="update_phone" placeholder="Mobile">
-                    (<span style="color:#5383C1; font-size:smaller">example 8801XXXXXXXXX</span>)
+                    (<span style="color:#5383C1; font-size:smaller">example 380123456789</span>)
                     <div class="phonemessage"></div>
                     <span style="color:red;"><?php echo @$message_error;?></span>
                 </div>
