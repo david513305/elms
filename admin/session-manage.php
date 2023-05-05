@@ -102,7 +102,7 @@ font-size: 13px;
         $data = '<table class="table table-striped table-bordered bootstrap-datatable" id="example">
             <tr>
                 <th class="text-center">No.</th>
-                <th class="text-center">Session Name</th>
+                <th class="text-center">Назва сесії</th>
                 <th class="text-center">Оновити</th>
                 <th class="text-center">Видалити</th>
             </tr>';
@@ -217,8 +217,8 @@ font-size: 13px;
             <div class="modal-body" style="padding: 20px 20px 50px 20px;">
 
                 <div class="form-group">
-                    <label for="session_name">Session Name</label>
-                    <input type="text" style="float:left;width: 96%;" id="session_name" placeholder="Session Name" class="form-control"/><span id="status" style="float:left"></span>
+                    <label for="session_name">Назва сесії</label>
+                    <input type="text" style="float:left;width: 96%;" id="session_name" placeholder="Назва сесії" class="form-control"/><span id="status" style="float:left"></span>
                     <div id="status"></div>
                 </div>
 
@@ -243,8 +243,8 @@ font-size: 13px;
             <div class="modal-body">
 
                 <div class="form-group">
-                    <label for="update_session_name">Session Name</label>
-                    <input name="update_session_name" type="text" id="update_session_name" placeholder="Session Name" class="form-control"/>
+                    <label for="update_session_name">Назва сесії</label>
+                    <input name="update_session_name" type="text" id="update_session_name" placeholder="Назва сесії" class="form-control"/>
                 </div>
 
             </div>

@@ -6,7 +6,7 @@
 	$data = '<table class="table table-striped table-bordered bootstrap-datatable" id="example">
 						<tr>
 							<th class="text-center">No.</th>
-							<th class="text-center">Session Name</th>
+							<th class="text-center">Назва сесії</th>
 							<th class="text-center">Оновити</th>
 							<th class="text-center">Видалити</th>
 						</tr>';

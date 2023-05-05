@@ -82,7 +82,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="box-content">
                 <form role="form" action="session.php" method="post">
                     <div class="form-group">
-                        <span class="required">*</span><label for="exampleInputEmail1">Session Name</label>
+                        <span class="required">*</span><label for="exampleInputEmail1">Назва сесії</label>
                         <input type="text" name="session" class="form-control" id="exampleInputEmail1" placeholder="ex: 2010-2011">
                         <span style="color:red;"><?php echo @$session_error;?></span>
                     </div>
